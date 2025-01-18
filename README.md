@@ -1,0 +1,1 @@
+get_next_line is a project designed to create a function that reads a line from a file descriptor, one at a time. Developed as part of the 1337 School Common Core curriculum, this project strengthens your understanding of memory management, file handling, and buffer-based operations in C.
